@@ -1,0 +1,4 @@
+displayName = Danu's cheese calamity
+author = Danu
+version = 1.0.1
+modReferences = CalamityMod

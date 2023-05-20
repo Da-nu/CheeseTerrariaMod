@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0KnLAjhdb54LfAOKKA2UAJqjQ0S4Hpmjk32Kmky82mpQ/vjM4Y2Uh1YZBefRUkSfNG+/4bBTbssgidTeb/YLOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\CheeseModDanu\\CheeseModDanu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
